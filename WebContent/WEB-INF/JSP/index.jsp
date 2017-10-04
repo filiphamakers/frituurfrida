@@ -8,5 +8,6 @@
 <body>
 	<h1>Frituur Frida</h1>
 	<p>Wij zijn vandaag ${openGesloten}</p>
+	<img src="images/${openGesloten}.png" alt="${openGesloten}">
 </body>
 </html>
